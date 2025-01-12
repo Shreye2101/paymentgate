@@ -1,0 +1,35 @@
+.card-div{
+    width: 15vw;
+    height: 40vh;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-div{
+    width: 13vw;
+    height: 25vh;
+    background-color: #fff;
+}
+
+.img{
+    width: 13vw;
+    height: 25vh;
+    object-fit: fill;
+    background-position: center;
+}
+
+.course-name{
+    font-size: 3.5vh;
+    font: bold;
+    color: black;
+    font-weight: 1000;
+
+}
+
+.course-desc{
+    font-size: 1.8vh;
+    text-align: center;
+}
